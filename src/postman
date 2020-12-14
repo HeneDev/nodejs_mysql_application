@@ -1,0 +1,1 @@
+curl -i -X DELETE "http://localhost:9000/api/v1/orders/5"
